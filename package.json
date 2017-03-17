@@ -1,0 +1,28 @@
+{
+  "name": "beertime",
+  "version": "1.0.0",
+  "description": "is it time to drink a beer bro?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerLoop/BeerTime.git"
+  },
+  "keywords": [
+    "beer",
+    "bot",
+    "hackerloop"
+  ],
+  "author": "Valentin Squirelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HackerLoop/BeerTime/issues"
+  },
+  "homepage": "https://github.com/HackerLoop/BeerTime#readme",
+  "dependencies": {
+    "beergifs": "^1.0.0",
+    "claudia-bot-builder": "^2.15.0"
+  }
+}

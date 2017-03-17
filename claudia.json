@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "beertime-executor",
+    "name": "beertime",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "ynmblkd831",
+    "module": "bot"
+  }
+}
